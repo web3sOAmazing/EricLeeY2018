@@ -24,7 +24,7 @@
 
 
 - 📫 Linkedin: [@EricLee](https://www.linkedin.com/in/ericyl2018/);
-- 📝 Email : jirimecerod128gmail.com
+- 📝 Email : pro.eric.yl@gmail.com
 
 
 <br />
