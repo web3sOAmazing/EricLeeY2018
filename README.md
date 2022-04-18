@@ -23,8 +23,8 @@
 <br />
 
 
-- 📫 Linkedin: [@EricLee](https://www.linkedin.com/in/ericyl2018/);
-- 📝 Email : pro.eric.yl@gmail.com
+- 📫 Linkedin: [@EricLee](https://www.linkedin.com/in/proericyl/);
+- 📝 Email: pro.eric.yl@gmail.com
 
 
 <br />
@@ -81,7 +81,7 @@
 .gg/EricYL#4385">
   <img align="left" alt="Eric's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ericyl2018/">
+<a href="https://www.linkedin.com/in/proericyl/">
   <img align="left" alt="Eric's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
