@@ -8,13 +8,11 @@
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 
 <br />
-
-<div align="center">
-  <p>
+<p>
     <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api?username=EricLeeY2018&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api/top-langs/?username=EricLeeY2018&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=hack,postscript" />
 </p>
-</div>
+
 
 <br />
 
