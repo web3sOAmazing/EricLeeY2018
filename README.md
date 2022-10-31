@@ -8,16 +8,16 @@
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 
 <br />
-<p>
-    <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api?username=EricLeeY2018&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api/top-langs/?username=EricLeeY2018&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=hack,postscript" />
-</p>
+<h3 align="center">
+  <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api?username=EricLeeY2018&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api/top-langs/?username=EricLeeY2018&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=hack,postscript" />
+</h3>
 
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EricLeeY2018&column=7&theme=onedark" />
 </div>
 
 <br />
