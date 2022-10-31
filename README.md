@@ -22,14 +22,6 @@
 
 <br />
 
-
-- 📫 Linkedin: [@EricLee](https://www.linkedin.com/in/proericyl/);
-- 📝 Email: pro.eric.yl@gmail.com
-
-
-<br />
-
-
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -75,15 +67,3 @@
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-
-
-<a href="https://
-.gg/EricYL#4385">
-  <img align="left" alt="Eric's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/proericyl/">
-  <img align="left" alt="Eric's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
-
-<br />
